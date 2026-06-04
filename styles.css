@@ -85,10 +85,10 @@ a:nth-child(2) {
 }
 
 a:hover {
-    opacity: 0.4;
+    opacity: 0.5;
 }
 a:active {
-    opacity: 0.8;
+    opacity: 0.7;
 }
 
 header {
