@@ -4,3 +4,5 @@
 <h2>Aprendi esse projeto nas aulas do <a href="https://www.devclub.com.br/">DevClub</a></h2>
 
 <img src="https://github.com/MatheusSoares44/Projeto-responsividade/blob/main/img/proj%20resp.%20github.png?raw=true" alt="site em tela de computador">
+
+<img src="https://github.com/MatheusSoares44/Projeto-responsividade/blob/main/img/proj%20resp.%20github%20cel.png?raw=true" alt="site em tela de celular">
